@@ -6,6 +6,8 @@ class Home extends Component {
         return (
             <div>
                 <Navbar/>
+                <h2 className="text-primary text-center">Hoşgeldiniz Lütfen Giriş Yapınız</h2><br/>
+                <h2 className="text-primary text-center">Hesabınız Yoksa Kayıt Olabilirsiniz</h2>
             </div>
         );
     }

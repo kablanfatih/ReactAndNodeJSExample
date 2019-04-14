@@ -83,7 +83,7 @@ class Register extends Component {
                                        className="form-control" value={password}
                                        onChange={this.changeInput}/>
                             </div>
-                            <button className="btn btn-danger btn-block" type="submit">Add User</button>
+                            <button className="btn btn-danger btn-block" type="submit">Register</button>
                         </form>
                     </div>
                 </div>
