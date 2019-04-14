@@ -5,7 +5,7 @@ const logger = require('morgan');
 
 const routes = require('./routes/index');
 
-const API_PORT = 5011;
+const API_PORT = 5000;
 const app = expreess();
 app.use(cors());
 
